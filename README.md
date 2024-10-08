@@ -102,11 +102,11 @@ endmodule
 
 **FULL ADDER**
 
-![318332443-3411cbc7-4f76-4664-a513-e348a9880eff](https://github.com/04Varsha/FULL_ADDER_SUBTRACTOR/assets/149035374/5d286c1d-e62e-454a-a389-00ba2c2a91fc)
+![WhatsApp Image 2024-10-08 at 10 38 59_ae518676](https://github.com/user-attachments/assets/694b3a92-17a8-4b82-8b9f-a786eaa55678)
 
 **FULL SUBTRACTOR**
 
-![318332487-1cc068c4-6398-4a52-bae8-39c6657c0a9a](https://github.com/04Varsha/FULL_ADDER_SUBTRACTOR/assets/149035374/03d5d030-815e-4847-a976-2fd282cf0333)
+![WhatsApp Image 2024-10-08 at 10 39 10_adfbfdc7](https://github.com/user-attachments/assets/8716ba91-4f74-4daf-b8fe-40c27bc82c03)
 
 
 **Result:**
